@@ -10,6 +10,7 @@ nav:
         - 'How to handle retries': 'index.md'
         - 'Terminology': 'index.md'
         - 'Use Cases': 'use-cases.md'
+        - 'Support': 'Support.md'
     - 'Tutorials':
         - 'How Balances Work': 'index.md'
     - 'Testing':
