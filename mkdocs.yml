@@ -9,6 +9,7 @@ nav:
         - 'Cardpool Transactions': 'index.md'
         - 'How to handle retries': 'index.md'
         - 'Terminology': 'index.md'
+        - 'Use Cases': 'use-cases.md'
     - 'Tutorials':
         - 'How Balances Work': 'index.md'
     - 'Testing':
