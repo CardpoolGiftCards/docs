@@ -1,4 +1,16 @@
 site_name: Cardpool API
 nav:
     - Overview: index.md
-    - Use Cases: about.md
+    - 'Getting Started':
+        - 'How it works': 'index.md'
+        - 'Accessing the API': 'index.md'
+        - 'Authentication': 'index.md'
+        - 'Asynchronous Calls': 'index.md'
+        - 'Cardpool Transactions': 'index.md'
+        - 'How to handle retries': 'index.md'
+        - 'Terminology': 'index.md'
+    - 'Tutorials':
+        - 'How Balances Work': 'index.md'
+    - 'Testing':
+        - 'How to Test': 'index.md'         
+repo_url: https://github.com/CardpoolGiftCards/docs/
