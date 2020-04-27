@@ -1,4 +1,4 @@
-site_name: CardCloset API
+site_name: Cardpool API
 nav:
-    - Home: index.md
-    - About: about.md
+    - Overview: index.md
+    - Use Cases: about.md
